@@ -19,7 +19,8 @@ dependencies:
   flutter:
     sdk: flutter
   bonsoir_platform_interface: ^5.1.3
-  bonsoir_android: ^5.1.5
+  bonsoir_android:
+    path: ../bonsoir_android
   bonsoir_darwin: ^5.1.3
   bonsoir_windows: ^5.1.5
   bonsoir_linux: ^5.1.3
